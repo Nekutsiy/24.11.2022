@@ -6,6 +6,7 @@
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -21,3 +22,8 @@ int [] GetArray(int size)
 int[] array = GetArray(8);
 
 Console.WriteLine(String.Join(" ",array));
+=======
+int[] a = Enumerable.Range(1, 8).Select(x => 17 % x).ToArray(); 
+foreach (int i in a)
+  Console.WriteLine(i);
+>>>>>>> 9b03bb345d503d57d4d6aa0f276fb3bc68a74410

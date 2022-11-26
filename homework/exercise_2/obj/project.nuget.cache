@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "bky8nUDsKYVlXNYRwmscrEccpfkmtaqTdWJ92l6GoLJTalYFUZO+sluoLwfPSpEFHpiE+uceeIfCcgD47MgMnQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\adm\\Desktop\\C#\\24.11.2022\\homework\\exercise_2\\exercise_2.csproj",
+=======
+  "dgSpecHash": "ctC2P9+XhmUlonNQsV2KGzgk3HwHtG1n3f2BvJSINqn05H27hJOEr56tC2FqROoSIiw5lhebMTPaw8wKAbUzSw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\1\\Desktop\\C#\\24.11.2022\\24.11.2022\\homework\\exercise_2\\exercise_2.csproj",
+>>>>>>> 9b03bb345d503d57d4d6aa0f276fb3bc68a74410
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -58,6 +58,7 @@ C:\Users\1\Desktop\C#\24.11.2022\24.11.2022\homework\exercise_2\obj\Debug\net6.0
 C:\Users\1\Desktop\C#\24.11.2022\24.11.2022\homework\exercise_2\obj\Debug\net6.0\exercise_2.pdb
 C:\Users\1\Desktop\C#\24.11.2022\24.11.2022\homework\exercise_2\obj\Debug\net6.0\exercise_2.genruntimeconfig.cache
 C:\Users\1\Desktop\C#\24.11.2022\24.11.2022\homework\exercise_2\obj\Debug\net6.0\ref\exercise_2.dll
+<<<<<<< HEAD
 C:\Users\adm\Desktop\C#\24.11.2022\homework\exercise_2\obj\Debug\net6.0\exercise_2.csproj.AssemblyReference.cache
 C:\Users\adm\Desktop\C#\24.11.2022\homework\exercise_2\obj\Debug\net6.0\exercise_2.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\adm\Desktop\C#\24.11.2022\homework\exercise_2\obj\Debug\net6.0\exercise_2.AssemblyInfoInputs.cache
@@ -73,3 +74,5 @@ C:\Users\adm\Desktop\C#\24.11.2022\homework\exercise_2\bin\Debug\net6.0\exercise
 C:\Users\adm\Desktop\C#\24.11.2022\homework\exercise_2\bin\Debug\net6.0\exercise_2.pdb
 C:\Users\adm\Desktop\C#\24.11.2022\homework\exercise_2\obj\Debug\net6.0\exercise_2.genruntimeconfig.cache
 C:\Users\adm\Desktop\C#\24.11.2022\homework\exercise_2\obj\Debug\net6.0\ref\exercise_2.dll
+=======
+>>>>>>> 9b03bb345d503d57d4d6aa0f276fb3bc68a74410

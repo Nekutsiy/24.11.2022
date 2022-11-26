@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\adm\\Desktop\\C#\\24.11.2022\\homework\\exercise_3\\exercise_3.csproj": {}
   },
   "projects": {
@@ -15,6 +16,22 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\adm\\AppData\\Roaming\\NuGet\\NuGet.Config"
+=======
+    "C:\\Users\\1\\Desktop\\C#\\24.11.2022\\24.11.2022\\homework\\exercise_3\\exercise_3.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\1\\Desktop\\C#\\24.11.2022\\24.11.2022\\homework\\exercise_3\\exercise_3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\1\\Desktop\\C#\\24.11.2022\\24.11.2022\\homework\\exercise_3\\exercise_3.csproj",
+        "projectName": "exercise_3",
+        "projectPath": "C:\\Users\\1\\Desktop\\C#\\24.11.2022\\24.11.2022\\homework\\exercise_3\\exercise_3.csproj",
+        "packagesPath": "C:\\Users\\1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\1\\Desktop\\C#\\24.11.2022\\24.11.2022\\homework\\exercise_3\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\1\\AppData\\Roaming\\NuGet\\NuGet.Config"
+>>>>>>> 9b03bb345d503d57d4d6aa0f276fb3bc68a74410
         ],
         "originalTargetFrameworks": [
           "net6.0"
